@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'fira_sansbook';
+    src: url('../fonts/firasans-book.eot');
+    src: url('../fonts/firasans-book.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/firasans-book.woff') format('woff'),
+         url('../fonts/firasans-book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'fira_sansmedium';
+    src: url('../fonts/firasans-medium.eot');
+    src: url('../fonts/firasans-medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/firasans-medium.woff') format('woff'),
+         url('../fonts/firasans-medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'fira_sanslight';
+    src: url('../fonts/firasans-light.eot');
+    src: url('../fonts/firasans-light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/firasans-light.woff') format('woff'),
+         url('../fonts/firasans-light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'fira_sanslight_italic';
+    src: url('../fonts/firasans-lightitalic.eot');
+    src: url('../fonts/firasans-lightitalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/firasans-lightitalic.woff') format('woff'),
+         url('../fonts/firasans-lightitalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_novasemibold';
+    src: url('../fonts/proximanova-semibold-webfont.eot');
+    src: url('../fonts/proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/proximanova-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/proximanova-semibold-webfont.woff') format('woff'),
+         url('../fonts/proximanova-semibold-webfont.ttf') format('truetype'),
+         url('../fonts/proximanova-semibold-webfont.svg#proxima_novasemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

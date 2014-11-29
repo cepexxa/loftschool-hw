@@ -1,0 +1,16 @@
+.main-menu a:after {
+	display: none;
+}
+
+.sitepic div {
+	display: none;
+	background: url(../img/works-bg.png) repeat;
+}
+
+.sitepic:hover div {
+	display: block;
+}
+
+.overlay {
+	background: url(../img/works-bg2.png) repeat;
+}

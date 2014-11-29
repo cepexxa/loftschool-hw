@@ -1,0 +1,18 @@
+# Установка кодировки для проекта
+AddDefaultCharset UTF-8
+
+# Установка файла обработчика ошибки 404
+ErrorDocument 404 /404.php
+
+#Root file
+DirectorySlash On
+DirectoryIndex index.php
+RewriteBase /
+
+# Включение mod_rewrite
+RewriteEngine on
+
+#hide file .php extension
+RewriteCond %{REQUEST_fileNAME} !-d
+RewriteCond %{REQUEST_fileNAME} !-f
+RewriteRule ^(([^/]+/)*[^./]+)$ /$1.php [L]
