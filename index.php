@@ -8,7 +8,7 @@ include "php/sidebar.php";
 
 <div class="content">
 	<div class="block">
-		<h2>Основная информация</h2>
+		<h2>Основная информация обо мне</h2>
 		<div class="info-wrap clearfix">
 			<div class="foto"><img src="img/foto.jpg" height="190" width="190" alt="foto"></div>
 			<div class="info">
